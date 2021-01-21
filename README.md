@@ -1,2 +1,4 @@
 # function_plotter
-Python GUI program that plots arbitrary user-entered function.
+
+Note: I've used PyQt5 however I took in consideration that all functions and widgets can work using PySide2 normally
+*snapshots of test cases are involved*
